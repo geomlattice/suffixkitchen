@@ -1,0 +1,7 @@
+services:
+  pheonix:
+    build:
+      context: .
+    tty: true
+    ports:
+      - 4000:4000
