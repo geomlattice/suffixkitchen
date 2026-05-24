@@ -7,3 +7,6 @@ dclean:
 
 dash:
 	sudo docker exec -it suffixkitchen-pheonix-1 ash
+
+pash:
+	doas podman exec -it suffixkitchen-pheonix-1 ash
