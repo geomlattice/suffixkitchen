@@ -1,7 +1,12 @@
 # suffixkitchen
 
-- [x] run pheonix on localhost
-- [ ] run localhost files in container
+- [x] run phoenix on localhost
+- [x] run localhost files in container
     * failed
     * reattempt
-- [x] generate new pheonix project in container
+    * only add what is needed: success
+- [x] generate new phoenix project in container
+- [ ] read csv and load into 
+    -[ ] database model
+    -[ ] html table display
+- [ ] swap tailwindcss for bootstrap
